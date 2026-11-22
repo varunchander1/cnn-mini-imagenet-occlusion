@@ -2,7 +2,6 @@
 
 **Training convolutional neural networks from scratch on 33 image classes, measuring how each design choice affects accuracy, then probing what the best model actually looks at.**
 
-Part of the *AI & ML for Industry* programme, IIT Delhi (Module 4: Deep Learning).
 
 📄 **[Read the full project report (PDF)](CNN_MiniImageNet_Occlusion_Report.pdf)**
 
